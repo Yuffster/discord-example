@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"discord":">=0.5.0",
-		"discord-web":">0.5.0"
+		"discord-web":">=0.5.0"
 	},
 	"author": {
 		"name": "Michelle Steigerwalt",
