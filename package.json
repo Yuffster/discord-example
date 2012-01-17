@@ -7,8 +7,8 @@
 		"url": "http://github.com/yuffster/discord-example"
 	},
 	"dependencies": {
-		"discord":">=0.4.0",
-		"discord-web":">0.4.0"
+		"discord":">=0.5.0",
+		"discord-web":">0.5.0"
 	},
 	"author": {
 		"name": "Michelle Steigerwalt",
