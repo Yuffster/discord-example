@@ -6,11 +6,12 @@ module.exports =  new Class({
 		this.set_short("an empty room");
 		this.set_long(
 			"This is a large, empty room, which smells of fresh " +
-		    "paint and sawdust.  You can't help but feel a sense " +
+		    "paint and sawdust. You can't help but feel a sense " +
 		    "of endless possibility as you stand here."
 		);
 		this.add_living('rat');
 		this.load_item('strawberry');
+		this.add_exit('north', 'elevator');
 	}
 
 });
