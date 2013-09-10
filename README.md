@@ -10,7 +10,7 @@ Installation
 
 In a command line, type:
 
-    git checkout http://github.com/Yuffster/discord-example
+    git clone http://github.com/Yuffster/discord-example
     cd discord-example
     npm install
     node start_server.js
